@@ -1,0 +1,3 @@
+Informatika: 100 20 30
+Fizika: 50 0 20
+Fizkultura: 30 0 0
